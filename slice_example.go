@@ -6,5 +6,5 @@ func main() {
 	arr := [5]int{10, 20, 90, 70, 60}
 	slice := append(arr[:2], arr[3:])
 	fmt.Println(slice)
-	//this will fail
+	//this will fail, placed here as an example
 }

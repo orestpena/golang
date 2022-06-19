@@ -2,8 +2,11 @@ package main
 
 import "fmt"
 
+// to install go: https://go.dev/doc/install
+
 func main() {
 	fmt.Println("Hello World!")
+	// To execute this program:  go run main.go
 	/*
 		var a, b int = 10, 10
 		fmt.Println(a <= b)
