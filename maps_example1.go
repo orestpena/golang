@@ -12,6 +12,7 @@ func main() {
 
 	ascii_codes = make(map[string]int)
 	ascii_codes["U"] = 85
-    fmt.Println(ascii_codes)
-	}
+	fmt.Println(ascii_codes)
+
+	// couldn't get this one to work right.
 }
